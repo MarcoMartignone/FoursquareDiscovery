@@ -1,0 +1,6 @@
+framework module Pods_FoursquareDiscovery {
+  umbrella header "Pods-FoursquareDiscovery-umbrella.h"
+
+  export *
+  module * { export * }
+}
